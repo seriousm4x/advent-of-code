@@ -32,7 +32,6 @@ func init() {
 		}
 
 		numbers = append(numbers, levels)
-
 	}
 }
 
