@@ -23,7 +23,6 @@ func init() {
 
 		lines = append(lines, line)
 	}
-
 }
 
 func multiplyMatches(str1 string, str2 string) int {
